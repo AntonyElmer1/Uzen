@@ -45,3 +45,45 @@ body {
 
 }
 
+@media screen and (max-width: 1029px){
+    .fa-chevron-down{
+        display: none;
+    }
+
+    #text-login{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        right: 11.5rem;
+        top: -9px;
+        padding: 10px;
+        font-size: 20px;
+        border-radius: 100%;
+        color: #787878;
+
+    }
+
+    #text-car{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        right: 9rem;
+        top: -9px;
+        padding: 10px;
+        font-size: 20px;
+        border-radius: 100%;
+        color: #787878;
+    }
+
+    .text-login{
+        display: none;
+    }
+
+    .box-log{
+        margin-left: -12rem;
+    }
+
+    .box-carro{
+        margin-left: -11rem;
+    }
+}
