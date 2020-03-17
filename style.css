@@ -1,4 +1,4 @@
-
+@media screen and (max-width: 1029px){
 body {
     margin: 0 0 55px 0;
 }
@@ -43,4 +43,5 @@ body {
     font-size: 18px;
 }
 
+}
 
