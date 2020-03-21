@@ -29,7 +29,7 @@ body {
     white-space: nowrap;
     font-family: sans-serif;
     font-size: 30px;
-    color: #444444;
+    color: #ccc;
     text-decoration: none;
     -webkit-tap-highlight-color: transparent;
     transition: background-color 0.1s ease-in-out;
