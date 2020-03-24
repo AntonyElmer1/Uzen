@@ -45,11 +45,15 @@ body {
 }
 
 .nav__icon {
-    font-size: 35px;
+    font-size: 33px;
 }
 
 #add {
     font-size: 50px;
+}
+
+.fa-bell{
+    font-size: 25px;
 }
 
 .header {
